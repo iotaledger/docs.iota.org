@@ -6,6 +6,13 @@ sidebar_position: 2
 
 > How we write documentation!
 
+The Documentation Culture and aims for:
+- Developer Happiness
+- Writer Happiness
+- Always actual Documentation
+- Continuous Improvement
+- encourage Feedback and Conributions
+
 ## Framework
 
 - tutorials 
