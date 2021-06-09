@@ -18,13 +18,13 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'style-guide',
+          docId: 'writer-guide',
           position: 'left',
-          label: 'Docs Guide',
+          label: 'Guides',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        { to: '/blog', label: 'Blog', position: 'left' },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/facebook/docs.iota.org',
           label: 'GitHub',
           position: 'right',
         },
@@ -37,8 +37,12 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Writer Guide',
+              to: '/docs/writer-guide',
+            },
+            {
+              label: 'Docs Culture',
+              to: '/docs/culture',
             },
           ],
         },
@@ -46,16 +50,15 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.iota.org',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/iota',
+            }, {
+              label: 'Stack Exchange',
+              href: 'https://iota.stackexchange.com/',
             },
           ],
         },
