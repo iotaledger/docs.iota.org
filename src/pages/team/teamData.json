@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Charles Thompson",
+    "title": "Technical Writer @ IOTA Foundation",
+    "discord_handle": "charlesthompson3#0184",
+    "image_url": "https://avatars.githubusercontent.com/u/74603461?v=4",
+    "social_links": [
+      {
+        "type": "github",
+        "link": "https://github.com/charlesthompson3"
+      },
+      {
+        "type": "discord",
+        "label": "charlesthompson3#0184"
+      }
+    ]
+  },
+  {
+    "name": "Sebastian H",
+    "title": "Technical Writer @ IOTA Foundation",
+    "discord_handle": "huhn#8105",
+    "image_url": "https://images4.bamboohr.com/86711/photos/213-0-4.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbWFnZXM0LmJhbWJvb2hyLmNvbS84NjcxMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVHcmVhdGVyVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjIzMjMzMzg3fSwiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MjU4MjUzOTd9fX1dfQ__&Signature=Fjcz6nN9qijlJ~3ay9RF~oZsmGDXdnP66xkchnEAvM~KowqnUYSxdITfrPaZ6Aast0jrEApM-Xh7ujUpEdkLVCpOQdDQy~-BYZKci5RNAYxTUq1~5gd3avFLL8idlbADmaF2v3hV3nGzLuSffafYM4e9cXtWn9EPNjyRR0qPGTAEG9U3eofDKw~neHSioJwsg4vquKhscsKLaY6Qq02wi0FCWFFmoo9H59w-ORVfgTqQObT5OxyYpyf4mDsKttmLxFm2iI5E1aiLkdSEAhpNaQ4CktgL72~1V8tiWpXXxt6UsXhm2yAGZTgpjLKfg0bEJP5lw7QCYKR0AYPb6kMW6A__&Key-Pair-Id=APKAIZ7QQNDH4DJY7K4Q",
+    "social_links": [
+      {
+        "type": "github",
+        "link": "https://github.com/huhn511"
+      },
+      {
+        "type": "twitter",
+        "link": "https://twitter.com/huhn511"
+      },
+      {
+        "type": "discord",
+        "label": "huhn#8105"
+      }
+    ]
+  },
+  {
+    "name": "Lucas Tortora",
+    "title": "Technical Writer @ IOTA Foundation",
+    "discord_handle": "lucastortora#4820",
+    "image_url": "https://avatars.githubusercontent.com/u/85233773?v=4",
+    "social_links": [
+      {
+        "type": "github",
+        "link": "https://github.com/lucas-tortora"
+      },
+      {
+        "type": "discord",
+        "label": "lucastortora#4820"
+      }
+    ]
+  },
+  {
+    "name": "Aleksei Korolev",
+    "title": "Technical Writer @ IOTA Foundation",
+    "discord_handle": "aleksei.korolev#2241",
+    "image_url": "https://avatars.githubusercontent.com/u/42579543?v=4",
+    "social_links": [
+      {
+        "type": "github",
+        "link": "https://github.com/aleksei-korolev"
+      },
+      {
+        "type": "discord",
+        "label": "aleksei.korolev#2241"
+      }
+    ]
+  }
+]
+

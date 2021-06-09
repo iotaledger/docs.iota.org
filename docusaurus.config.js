@@ -19,10 +19,15 @@ module.exports = {
         {
           type: 'doc',
           docId: 'writer-guide',
-          position: 'left',
+          position: 'right',
           label: 'Guides',
         },
-        { to: '/blog', label: 'Blog', position: 'left' },
+        {
+          to: '/team',
+          position: 'right',
+          label: 'Team',
+        },
+        { to: '/blog', label: 'Blog', position: 'right' },
         {
           href: 'https://github.com/facebook/docs.iota.org',
           label: 'GitHub',
