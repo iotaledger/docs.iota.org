@@ -5,7 +5,7 @@ import styles from './Projects.module.css';
 const FeatureList = [
   {
     title: 'Chrysalis',
-    src: '../../static/img/projects/chrysalis.png',
+    src: require('../../static/img/projects/chrysalis.png').default,
     link: 'https://chrysalis.docs.iota.org',
     description: (
       <>
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Client Libraries',
-    src: '../../static/img/projects/libraries.png',
+    src: require('../../static/img/projects/libraries.png').default,
     link: 'https://client-lib.docs.iota.org',
     description: (
       <>
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Wallet Libraries',
-    src: '../../static/img/projects/wallet.png',
+    src: require('../../static/img/projects/wallet.png').default,
     link: 'https://wallet-lib.docs.iota.org',
     description: (
       <>
@@ -35,7 +35,7 @@ const FeatureList = [
   },
   {
     title: 'HORNET',
-    src: '../../static/img/projects/hornet.png',
+    src: require('../../static/img/projects/hornet.png').default,
     link: 'https://hornet.docs.iota.org',
     description: (
       <>
@@ -45,7 +45,7 @@ const FeatureList = [
   },
   {
     title: 'Bee',
-    src: '../../static/img/projects/bee.png',
+    src: require('../../static/img/projects/bee.png').default,
     link: 'https://bee.docs.iota.org',
     description: (
       <>
@@ -55,7 +55,7 @@ const FeatureList = [
   },
   {
     title: 'Stronghold',
-    src: '../../static/img/projects/stronghold.png',
+    src: require('../../static/img/projects/stronghold.png').default,
     link: 'https://stronghold.docs.iota.org',
     description: (
       <>
