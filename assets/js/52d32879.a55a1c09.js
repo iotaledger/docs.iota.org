@@ -1,0 +1,1 @@
+(self.webpackChunkdocs_iota_org=self.webpackChunkdocs_iota_org||[]).push([[590],{7976:function(o){"use strict";o.exports=JSON.parse('{"allTagsPath":"/docs.iota.org/blog/tags","slug":"hello","name":"hello","count":1,"permalink":"/docs.iota.org/blog/tags/hello"}')}}]);

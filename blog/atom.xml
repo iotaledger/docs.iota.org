@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.iota.org/blog</id>
+    <title>IOTA Documentation Blog</title>
+    <updated>2021-06-09T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://docs.iota.org/blog"/>
+    <subtitle>IOTA Documentation Blog</subtitle>
+    <icon>https://docs.iota.org/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://docs.iota.org/docs.iota.org/blog/welcome"/>
+        <updated>2021-06-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Our Main Documentation Portal https://docs.iota.org, has now a new face.]]></summary>
+    </entry>
+</feed>

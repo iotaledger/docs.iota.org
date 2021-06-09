@@ -1,0 +1,1 @@
+(self.webpackChunkdocs_iota_org=self.webpackChunkdocs_iota_org||[]).push([[207],{1038:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/docs.iota.org/blog/tags","slug":"docusaurus","name":"docusaurus","count":1,"permalink":"/docs.iota.org/blog/tags/docusaurus"}')}}]);
