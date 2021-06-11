@@ -36,7 +36,23 @@ sidebar_position: 1
 
 ### **General Dos and Don'ts**
 
-Don't use *&* instead of *and* in headings, text, navigation, or tables of contents. However, it's OK to use *&* when referencing UI elements that use *&*, or in table headings and diagram labels where space constraints require abbreviation. Of course, it's fine to use & for technical purposes in code.
+Avoid replacing actual words with typographic signs. Avoid emojis. Avoid contractions.
+
+Good: "Lock, stock, and barrel."
+Bad: "Lock, stock & barrel."
+
+Good: "Soup is wet, so it is the worst of all foods."
+Bad: "Soup is wet; it is the worst of all foods."
+
+Good: "Go to the designated evacuation point."
+Bad: "Go :runner: :fire:  to the designated evacuation point."
+
+Good: "I would rather use contractions."
+Bad: "I'd rather use contractions."
+
+But keep it if this comes from the original name or quote:
+
+Good: "Lock, Stock & Barrel Lawyers."
 
 ### **Reading Ease**
 
