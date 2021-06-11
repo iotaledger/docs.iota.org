@@ -19,7 +19,8 @@ sidebar_position: 1
 - [Use active voice](https://developers.google.com/style/voice): make clear who's performing the action and actions over utility verbs (open the door, not use the door, debug console displays errors, not contains errors).
 - [Use standard American spelling](https://developers.google.com/style/spelling) and punctuation.
 - [Put conditional clauses before instructions](https://developers.google.com/style/clause-order), not after.
-- [For usage and spelling of specific words, see the word list](https://developers.google.com/style/wordlist); additionally, only use words you *know*
+- [For usage and spelling of specific words, see the word list](https://developers.google.com/style/wordlist).
+- Use only words you know for sure, both by their spelling and meaning.
 
 **Formatting, Punctuation, and Organization**
 
