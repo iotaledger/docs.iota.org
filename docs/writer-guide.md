@@ -89,7 +89,7 @@ Don't use color, size, location, or other visual cues as the primary way of comm
   - **Recommended:** Click menu **Menu**.
   - **Not recommended:** In the left-side panel, click the button with three lines.
 
-### **Text-formatting Summary**
+### **Text-formatting Summary** 
 
 #### **Bold**
 
