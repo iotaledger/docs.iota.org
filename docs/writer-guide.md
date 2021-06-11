@@ -45,8 +45,8 @@ Don't use *&* instead of *and* in headings, text, navigation, or tables of conte
 - Use parallel writing structures for similar things. For example, start each list in the same format.
 - Place distinguishing and important information of a paragraph in the first sentence to aid in scannability.
 - Use clear and direct language. Avoid the use of double negatives and exceptions for exceptions.
-  **Recommended:** You can continue without a path.
-  **Not recommended:** A missing path won't prevent you from continuing.
+  - **Recommended:** You can continue without a path.
+  - **Not recommended:** A missing path won't prevent you from continuing.
 
 ### **Headings and Titles**
 
@@ -83,11 +83,11 @@ Don't use color, size, location, or other visual cues as the primary way of comm
 
 - If you're using color, icon, or outline thickness to convey state, then also provide a secondary cue, such as a change in the text label.
 - Refer to buttons and other elements by their label (or [aria-label](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-label_attribute), if they're visual elements)—for example:
-  **Recommended:** Click **Save**.
-  **Not recommended:** Click the round button.
+  - **Recommended:** Click **Save**.
+  - **Not recommended:** Click the round button.
 - Don't use directional language to orient the reader, such as *above*, *below*, or *right-hand side*. This type of language doesn't work well for accessibility or for localization reasons. If a [UI element](https://developers.google.com/style/ui-elements) is hard to find, [provide a screenshot](https://developers.google.com/style/images).
-  **Recommended:** Click menu **Menu**.
-  **Not recommended:** In the left-side panel, click the button with three lines.
+  - **Recommended:** Click menu **Menu**.
+  - **Not recommended:** In the left-side panel, click the button with three lines.
 
 ### **Text-formatting Summary**
 
@@ -140,21 +140,21 @@ Times New Roman, 12 pt, black, when applicable.
 - Use a simple word. For example, don't use words like *commence* when you mean *start* or *begin*. Don't use *consequently* when you mean *so*. Don't use words like *utilize* or *leverage* when you mean *use*. However, do not avoid complex words where they do belong.
 - Use a single word when it conveys the same idea as a phrase. For example, don't use a phrase like *a number of* when you can use *some* or *many*.
 - Avoid phrasal verbs when possible. A phrasal verb combines multiple words to form a single verb phrase. These verbs are also known as compound verbs. Try to substitute a simpler verb first. There might not be a better verb; for example, a few exceptions to this rule include *set up*, *log in*, and *sign in*.
-  **Recommended:** This document uses the following terms:
-  **Not recommended:** This document makes use of the following terms:
+  - **Recommended:** This document uses the following terms:
+  - **Not recommended:** This document makes use of the following terms:
 - Define abbreviations. Abbreviations can be confusing out of context, and they don't translate well. Spell things out whenever possible, at least the first time that you use a given term. 
 - Don't use too many modifiers. In particular, don't use more than two nouns as modifiers of another noun.
-  **Recommended:** A cloud-native DevSecOps pipeline in a hybrid environment
-  **Not recommended:** A hybrid cloud-native DevSecOps pipeline
+  - **Recommended:** A cloud-native DevSecOps pipeline in a hybrid environment
+  - **Not recommended:** A hybrid cloud-native DevSecOps pipeline
 - Don't misplace modifiers. For example, place a word like *only* immediately before the noun or verb that it relates to.
-  **Recommended:** Developers need to apply for only one token.
-  **Not recommended:** Developers only need to apply for one token.
+  - **Recommended:** Developers need to apply for only one token.
+  - **Not recommended:** Developers only need to apply for one token.
 - Don't omit relative pronouns. To provide clarity and to avoid ambiguity, use relative pronouns such as *that* and *who*.
-  **Recommended:** Running in a hybrid environment means that some of your processing happens on Google Cloud and other processing remains on-premises.
-  **Not recommended:** Running in a hybrid environment means some of your processing happens on Google Cloud and other processing remains on-premises.
+  - **Recommended:** Running in a hybrid environment means that some of your processing happens on Google Cloud and other processing remains on-premises.
+  - **Not recommended:** Running in a hybrid environment means some of your processing happens on Google Cloud and other processing remains on-premises.
 - Clarify antecedents. Using pronouns can get tricky when translators are working with small, unconnected strings of text. Help them out by making things as clear as possible. For example, if a pronoun is ambiguous, then replace it with the appropriate noun.
-  **Recommended:** If you use the term *green beer* in an ad, then make sure that the ad is targeted.
-  **Not recommended:** If you use the term *green beer* in an ad, then make sure that it's targeted.
+  - **Recommended:** If you use the term *green beer* in an ad, then make sure that the ad is targeted.
+  - **Not recommended:** If you use the term *green beer* in an ad, then make sure that it's targeted.
 - Use helper words. Helper words, such as *if*, *then*, and *of*, are frequently left out of conversational English. Use these words to avoid ambiguity.
 
 ### **Be Consistent**
