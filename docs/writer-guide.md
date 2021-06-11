@@ -24,7 +24,7 @@ sidebar_position: 1
 
 **Formatting, Punctuation, and Organization**
 
-- For headings from the first to the third level, capitalize the words; headings below this level should use sentence case
+- For headings from the first to the third level, capitalize the words. Headings below this level should use sentence case
 - [Use numbered lists](https://developers.google.com/style/lists) for sequences.
 - [Use bulleted lists](https://developers.google.com/style/lists) for most other lists.
 - [Use description lists](https://developers.google.com/style/lists) for pairs of related pieces of data.
