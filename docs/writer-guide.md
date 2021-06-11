@@ -19,40 +19,24 @@ sidebar_position: 1
 - [Use active voice](https://developers.google.com/style/voice): make clear who's performing the action and actions over utility verbs (open the door, not use the door, debug console displays errors, not contains errors).
 - [Use standard American spelling](https://developers.google.com/style/spelling) and punctuation.
 - [Put conditional clauses before instructions](https://developers.google.com/style/clause-order), not after.
-- [For usage and spelling of specific words, see the word list](https://developers.google.com/style/wordlist).
-- Use only words you know for sure, both by their spelling and meaning.
+- [For usage and spelling of specific words, see the word list](https://developers.google.com/style/wordlist); additionally, only use words you *know*
 
 **Formatting, Punctuation, and Organization**
 
-- For headings from the first to the third level, capitalize the words. Headings below this level should use sentence case
+- For headings from the first to the third level, capitalize the words; headings below this level should use sentence case
 - [Use numbered lists](https://developers.google.com/style/lists) for sequences.
 - [Use bulleted lists](https://developers.google.com/style/lists) for most other lists.
 - [Use description lists](https://developers.google.com/style/lists) for pairs of related pieces of data.
 - [Use serial commas](https://developers.google.com/style/commas-serial).
 - [Put code-related text in code font](https://developers.google.com/style/code-in-text).
-- Put UI in weak emphasisUse the DD/MM/YY formatting
+- Put UI in weak emphasis
+- Use the DD/MM/YYYY formatting
 
 ## Comprehensive Guide
 
 ### **General Dos and Don'ts**
 
-Avoid replacing actual words with typographic signs. Avoid emojis. Avoid contractions.
-
-Good: "Lock, stock, and barrel."
-Bad: "Lock, stock & barrel."
-
-Good: "Soup is wet, so it is the worst of all foods."
-Bad: "Soup is wet; it is the worst of all foods."
-
-Good: "Go to the designated evacuation point."
-Bad: "Go :runner: :fire:  to the designated evacuation point."
-
-Good: "I would rather use contractions."
-Bad: "I'd rather use contractions."
-
-But keep it if this comes from the original name or quote:
-
-Good: "Lock, Stock & Barrel Lawyers."
+Don't use *&* instead of *and* in headings, text, navigation, or tables of contents. However, it's OK to use *&* when referencing UI elements that use *&*, or in table headings and diagram labels where space constraints require abbreviation. Of course, it's fine to use & for technical purposes in code.
 
 ### **Reading Ease**
 
@@ -69,6 +53,7 @@ Good: "Lock, Stock & Barrel Lawyers."
 Use descriptive headings and titles because they help a user navigate their browser and the page. It's easier to jump between pages and sections of a page if the headings and titles are unique.
 
 - Use [meaningful link text](https://developers.google.com/style/link-text). Links should make sense when read out of context.
+- Don't use *click here* or *read this document*, use “For further reference” or “For further reading” or something along those lines
 - If a link downloads a file, the link text needs to indicate this action as well as the file type.
 
 ### **Images**
@@ -108,31 +93,19 @@ Don't use color, size, location, or other visual cues as the primary way of comm
 
 #### **Bold**
 
-Use bold formatting, <b> or **, for [UI elements](https://developers.google.com/style/ui-elements#formatting) and at the beginning of [notices](https://developers.google.com/style/notices).
-
-Although a double underscore, "__", can also indicate bold styling in Markdown, it can be difficult to distinguish in a text editor. 
+Use bold formatting, for [UI elements](https://developers.google.com/style/ui-elements#formatting) and at the beginning of [notices](https://developers.google.com/style/notices).
 
 #### **Italic** 
 
-Use italics formatting, <i> or _, when drawing attention to a specific word or phrase, such as when [defining terms](https://developers.google.com/style/formatting-key-terms) or [using words as words](https://developers.google.com/style/formatting-words-as-words).Italicize titles of books, movies, web series, and other full-length works, unless they're part of a link. 
+Use italics formatting, when drawing attention to a specific word or phrase, such as when [defining terms](https://developers.google.com/style/formatting-key-terms) or [using words as words](https://developers.google.com/style/formatting-words-as-words). Italicize titles of books, movies, web series, and other full-length works, unless they're part of a link. 
 
 Italicize parameter names. For example, when you refer to the parameters of a method like doSomething(Uri data, int count), italicize *data* and *count*.
 
-Italicize mathematical variables and version variables. For example, *x* + *y* = 3, version 1.4.*x*.To indicate emphasis in HTML, use the <em> element, which renders as italics in most contexts. To indicate emphasis in Markdown, use underscores (_) or single asterisks (*); you can't do semantic tagging in Markdown.
+Italicize mathematical variables and version variables. For example, *x* + *y* = 3, version 1.4.*x*.
 
 #### **Underline**
 
 Do not underline.
-
-#### **Code font**
-
-Use <code> in HTML or " ` " in Markdown to apply a monospace font and other styling to [code in text](https://developers.google.com/style/code-in-text), inline code, and user input.
-
-Use code blocks, <pre> or ```, for [code samples](https://developers.google.com/style/code-samples) or other blocks of code.
-
-Do not override or modify font styles inline.
-
-Use code font to mark up code, such as class names, method names, HTTP status codes, console output, and placeholder variables. 
 
 #### **Sentence case and capitalization**
 
@@ -147,14 +120,6 @@ For titles of shorter works—such as articles or episodes in a web series—put
 #### **Font type, size, and color**
 
 Times New Roman, 12 pt, black, when applicable.
-
-Use [semantic HTML](https://developers.google.com/style/semantic-tagging) to control the style of text on a page. For example, use code tags, <code> or `, instead of manually styling text with a monospace font.
-
-#### **Other punctuation conventions**
-
-Don't use [ampersands (&)](https://developers.google.com/style/word-list#ampersand) as conjunctions or shorthand for *and*. Use *and* instead. That includes headings and navigation.
-
-**Exception:** It's okay to use *&* in cases where you need to refer to a UI element or the name of a menu that uses *&*.Put quotation marks and end punctuation [outside of link text](https://developers.google.com/style/link-text#punctuation-with-links).
 
 ## **Writing for a global audience**
 
