@@ -15,11 +15,17 @@ sidebar_position: 1
 
 ### **Language and Grammar**
 
-- [Use second person](https://developers.google.com/style/person): but use "you" and "we" where applicable
-- [Use active voice](https://developers.google.com/style/voice): make clear who's performing the action and actions over utility verbs (open the door, not use the door, debug console displays errors, not contains errors).
+- [Refer to the reader in second person](https://developers.google.com/style/person).
+- Refer to IOTA Foundation in third person.
+- Refer to IOTA community in third person.
+- Avoid referring to yourself, but use first person if you have to.
+- [Use active voice](https://developers.google.com/style/voice): make clear who's performing the action.
+- Prefer action verbs over utility verbs (open the door, not use the door, debug console displays errors, not contains errors).
 - [Use standard American spelling](https://developers.google.com/style/spelling) and punctuation.
 - [Put conditional clauses before instructions](https://developers.google.com/style/clause-order), not after.
-- [For usage and spelling of specific words, see the word list](https://developers.google.com/style/wordlist); additionally, only use words you *know*
+- Use common glossary across all documentation. Be consistent. Avoid synonyms for technical terms unless you have mentioned that term beforehand and the relation is clear.
+- For general terms, see the [Google's wordlist](https://developers.google.com/style/wordlist).
+- Only use words you know, both by their meaning and spelling. If you do not know a word, the chances are that the reader does not know it either.
 
 **Formatting, Punctuation, and Organization**
 
