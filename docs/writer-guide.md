@@ -29,14 +29,15 @@ sidebar_position: 1
 
 **Formatting, Punctuation, and Organization**
 
-- For headings from the first to the third level, capitalize the words; headings below this level should use sentence case
+- Capitalize headings from the first to the third level using the [Chicago style](https://en.wikipedia.org/wiki/Title_case#Chicago_Manual_of_Style).
+- For lower-level headings, use sentence case.
 - [Use numbered lists](https://developers.google.com/style/lists) for sequences.
 - [Use bulleted lists](https://developers.google.com/style/lists) for most other lists.
 - [Use description lists](https://developers.google.com/style/lists) for pairs of related pieces of data.
 - [Use serial commas](https://developers.google.com/style/commas-serial).
 - [Put code-related text in code font](https://developers.google.com/style/code-in-text).
-- Put UI in weak emphasis
-- Use the DD/MM/YYYY formatting
+- Put names of UI elements in weak emphasis.
+- Use the DD/MM/YYYY formatting for dates and the 24h formatting for time.
 
 ## Comprehensive Guide
 
