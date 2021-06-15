@@ -153,7 +153,6 @@ Use parallel writing structures for similar things. For example, start each list
 - Don't merge cells. Don't use colspan or rowspan attributes.
 - Don't use tables unless it's the best method to present your information. 
 
-
 ### Referencing UI Elements
 
 Never use color, size, location, or other visual cues as the primary way of describing UI elements, as they could differ between platforms and browsers.
@@ -178,6 +177,18 @@ In general, use emphasis notation sparingly. In most cases, you can emphasize an
 
 Always use *weak emphasis* for UI element names.
 
+#### Drawing attention
+
+When you really want the user to read a paragraph, use [remark-admonitions](https://docusaurus.io/docs/markdown-features/admonitions) syntax. Reserve it for truly important messages, as if the text has a warning after every paragraph, it has none. If the user has to read the article carefully because it describes a sensitive topic, consider telling that in a single admonition at the beginning.
+
+Example:
+
+:::caution
+
+Make sure that you have connected to IOTA testing network, not main network.
+
+:::
+
 #### Code blocks
 
 Use paragraph code blocks (\`\`\`) for code examples.
@@ -198,7 +209,7 @@ For lower-level headings, use sentence case.
 
 In general, use American English style when [punctuating quotations](https://developers.google.com/style/quotation-marks).
 
-For titles of shorter works—such as articles or episodes in a web series—put titles in quotation marks, unless they're part of a link.
+For titles of shorter works — such as articles or episodes in a web series — put titles in quotation marks, unless they're part of a link.
 
 Put long quotes in a paragraph-style quote (`>`).
 
