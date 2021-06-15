@@ -22,7 +22,7 @@ Our goal is to let our readers fully understand IOTA, be it IOTA Foundation, com
 - Refer to IOTA community in third person.
 - Avoid referring to yourself, but use first person if you have to.
 - [Use active voice](https://developers.google.com/style/voice): make clear who's performing the action.
-- Prefer action verbs over utility verbs (open the door, not use the door, debug console displays errors, not contains errors).
+- Prefer action verbs over utility verbs (open the door, not use the door; debug console displays errors, not contains errors).
 - [Use standard American spelling](https://developers.google.com/style/spelling) and punctuation.
 - [Put conditional clauses before instructions](https://developers.google.com/style/clause-order), not after.
 - Use common glossary across all documentation. Be consistent. Avoid synonyms for technical terms unless you have mentioned that term beforehand and the relation is clear.
