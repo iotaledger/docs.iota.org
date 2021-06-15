@@ -304,7 +304,8 @@ Remember that many readers aren't fluent English speakers, many of them come fro
 - Mixing metaphors or taking a metaphor too far.
 - Funny lines that aren't closely related to the topic, or that require much off-topic verbiage, or that obscure information.
 - Phrasing that denigrates or insults any group of people.
-- Phrasing in terms of *let's* do something.Using phrases like *simply*, *It's that simple*, *It's easy*, or *quickly* in a procedure.
+- Phrasing in terms of *let's* do something.
+- Using phrases like *simply*, *It's that simple*, *It's easy*, or *quickly* in a procedure.
 
 ### Some Techniques and Approaches to Consider
 
