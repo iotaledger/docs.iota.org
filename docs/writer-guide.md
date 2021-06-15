@@ -127,7 +127,7 @@ Use parallel writing structures for similar things. For example, start each list
 ### Links
 
 - Use [meaningful link text](https://developers.google.com/style/link-text). Links should make sense when read out of context.
-- Don't use *click here* or *read this document*, use “For further reference” or “For further reading” or something along those lines
+- Don't use *click here* or *read this document*, use “For further reference” or “For further reading” or something along those lines.
 - If a link downloads a file, the link text needs to indicate this action as well as the file type.
 - Leave determiners out of the [link](###Links).
 - Never apply additional formatting for links.
