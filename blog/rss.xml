@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>IOTA Documentation Blog</title>
+        <title>IOTA Developer Documentation Blog</title>
         <link>https://docs.iota.org/blog</link>
-        <description>IOTA Documentation Blog</description>
+        <description>IOTA Developer Documentation Blog</description>
         <lastBuildDate>Wed, 09 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
