@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'IOTA Documentation',
-  tagline: 'A Collection of all IOTA Documentation',
+  title: 'IOTA Developer Documentation',
+  tagline: 'A collection of all IOTA Documentation Pages',
   url: 'https://docs.iota.org/',
   baseUrl: '/docs.iota.org/',
   onBrokenLinks: 'throw',
@@ -9,6 +9,9 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'iotaledger', // Usually your GitHub org/user name.
   projectName: 'docs.iota.org', // Usually your repo name.
+  stylesheets: [
+    'https://fonts.googleapis.com/css?family=Material+Icons',
+  ],
   themeConfig: {
     navbar: {
       logo: {
