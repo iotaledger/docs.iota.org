@@ -49,6 +49,18 @@ Never modify quotes or names. Fix typos in a quote only if we are the first to p
 
 Do not contract short quotes. Put `[...]` in place of an omitted part. Never omit parts that change the meaning of the quote, its emotion, or anything else that could lead to misinterpreting it.
 
+#### IOTA products
+
+Refer to IOTA libraries by their filenames: iota.rs, wallet.rs, etc. Always use the lower-case notation. Note that words in the lower case make your text harder to read. To avoid it and avoid possible repetition, you could use the following clause: "The iota.rs library".
+
+Other IOTA products have an actual name. Always capitalize it: "A Hornet node, a Bee software. Hornet and Bee."
+
+Note that there are no determiners (the) when you refer something by its name: "the iota.rs library" as in "the library named iota.rs", but simply "iota.rs".
+
+Good:
+
+> The iota.rs library connects to a node. A node could be a Bee node or a Hornet node, but iota.rs handles both the same way. Bee supports the IOTA protocol 2.0, and Hornet does not.
+
 ### Logograms, Emojis, and Contractions
 
 As logograms, emojis, and contractions are popular in informal writing, they look like a good tool to make a text more friendly. However, they also require extra effort to decipher the text. Contractions are sometimes ambiguous (would, could, should, had). Bright, colorful emojis distract from the plain text and break the reading flow. Avoid any of it, and if your prompt sounds too formal or aggressive, rewrite it altogether.
