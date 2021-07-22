@@ -6,18 +6,22 @@ module.exports = {
   baseUrl: '/docs.iota.org/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: '/img/logo/favicon.ico',
   organizationName: 'iotaledger', // Usually your GitHub org/user name.
   projectName: 'docs.iota.org', // Usually your repo name.
   stylesheets: [
+    'http://v2202102141633143571.bestsrv.de/assets/css/styles.c88dfa6b.css',
     'https://fonts.googleapis.com/css?family=Material+Icons',
   ],
   themeConfig: {
-    navbar: {
-      logo: {
-        alt: 'IOTA Developer Documentation',
-        src: 'img/logo.svg',
+      colorMode: {
+        defaultMode: "dark"
       },
+      navbar: {
+        logo: {
+          alt: 'IOTA',
+          src: '/img/logo/Logo_Swirl_Dark.png',
+        },
       items: [
         {
           type: 'doc',
@@ -32,7 +36,7 @@ module.exports = {
         },
         { to: '/blog', label: 'Blog', position: 'right' },
         {
-          href: 'https://github.com/facebook/docs.iota.org',
+          href: 'https://github.com/iotaledger',
           label: 'GitHub',
           position: 'right',
         },
@@ -104,7 +108,7 @@ module.exports = {
             'https://github.com/iotaledger/docs.iota.org/edit/main/website/blog/',
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve('./src/css/iota.css'),
         },
       },
     ],
