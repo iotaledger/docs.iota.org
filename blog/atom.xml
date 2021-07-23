@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://docs.iota.org/blog"/>
     <subtitle>IOTA Developer Documentation Blog</subtitle>
-    <icon>https://docs.iota.org/img/favicon.ico</icon>
+    <icon>https://docs.iota.org/img/logo/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
