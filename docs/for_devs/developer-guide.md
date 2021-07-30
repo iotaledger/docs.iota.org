@@ -17,18 +17,13 @@ Active technical writers:
 
 ## Do Your Homework
 
-No matter if we write an overview of a product or an example for a specific usage of a feature, we will always ask you the same questions:
+For every technical writer IOTA has ten or so software engineers. For four technical writers, there is a dozen and a half of projects and products. It means that on an average week only one technical writer would attend to your team and would do that for just a day or two. The major bulk of the work is on your shoulders.
 
-1. Who will use it?
-2. Why they use it? What problems they solve?
-3. What do they need to use it? Do they need to know something?
-4. How do they use it?
-5. What do they get as a result? What can they do with it?
-6. All the same but with negations: when they should not use it? How to misuse it? If something goes wrong, how do they know? How do they cope with that?
+The most consuming part of writing is not writing itself but the research of the subject. You have to gather and collect bits of information, structure it, decide what is worth your reader's attention and what not. Then you put it into words, draft up an article, rewrite it clean, let others review it and finally publish your work. The more you can do on your own, the faster your project will be documented.
 
-These are useful questions. They help us, and they can help you: you will implement a better feature if you know what it is for. Find the answers beforehand and this will likely pay off.
+Some tasks you can manage on your own. For some you would need advice. Some tasks are better left to a technical writer. Contact the writers' team early and plan your work first.
 
-It is up to you how do you want to give us the answers. We can have a chat or a talk. You can draft up an article yourself. You can write down a bunch of use cases or user stories: Ivan Jacobson and Rachel Davies have invented these tools to help engineering teams find the answers and keep track of them. 
+To help you help us, we have prepared a [bag of tricks](./bag_of_tricks/bag_of_tricks.md), a collection of tools, tricks, techniques and tips.
 
 ## Do Your Work
 
