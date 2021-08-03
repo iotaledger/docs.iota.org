@@ -31,4 +31,4 @@ Technical writers can write a welcoming page or a README of your project, prepar
 
 ## Make It Official
 
-A direct talk is a great way to get a quick answer or advice, but there are more projects than there are technical writers, and we need to plan ahead. See [Requesting a Technical Writer](./request-tw.md) for details.
+A direct talk is a great way to get a quick answer or advice, but there are more projects than there are technical writers, and we need to plan ahead. See [Requesting a Technical Writer](./request_tw.md) for details.

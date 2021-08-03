@@ -4,8 +4,8 @@ module.exports = {
   tagline: 'A collection of all IOTA Documentation Pages',
   url: 'https://docs.iota.org/',
   baseUrl: '/docs.iota.org/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'warn',
+  onBrokenMarkdownLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'iotaledger', // Usually your GitHub org/user name.
   projectName: 'docs.iota.org', // Usually your repo name.
@@ -21,7 +21,7 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'writer-guide',
+          docId: 'welcome',
           position: 'right',
           label: 'Guides',
         },
@@ -44,13 +44,14 @@ module.exports = {
         {
           title: 'Docs',
           items: [
+
             {
-              label: 'Writer Guide',
-              to: '/docs/writer-guide',
+              label: 'For Developers',
+              to: '/docs/for_devs/developer_guide',
             },
             {
-              label: 'Docs Culture',
-              to: '/docs/culture',
+              label: 'For Writers',
+              to: '/docs/for_tws/writer_guide',
             },
           ],
         },
