@@ -1,10 +1,10 @@
 # Requesting a Technical Writer
 
-While technical writers are always up for a quick chat, they need to plan ahead for substantial contributions. You might need to document a new feature, explain some technical concept in a new article, or amend an old article.
+While technical writers are always up for a quick chat, they need to plan ahead for substantial contributions. You might need to document a new feature, amend an article, or write a new one.
 
 ## Plan Ahead
 
-The technical writing team takes up to two weeks to produce the requested text. This time includes research, reworking your draft or writing an article from scratch, and editing the final commission, all while processing multiple other requests. In exceptional circumstances technical writers can provide you with a commission to a 24h deadline. Keep in mind that this puts strain on technical writers and puts all other requests on hold. Plan ahead, contact writers early, and respond swiftly. This is the smoothest way to get your project well documented.
+The technical writing team takes up to two weeks to produce the requested text. In that time, writers research the topic, rework your draft or write an article from scratch, review and edit their commission, all while processing multiple other requests. In exceptional circumstances technical writers could work against a twenty-four hours deadline, but keep in mind that this would put all other requests on hold and strain technical writers. Plan ahead, contact writers early, and respond swiftly. This is the smoothest way to get your project well documented.
 
 ## Do Your Homework
 
@@ -21,7 +21,7 @@ Tag the `@iotaledger/tech-writers` team in your PR. Tell what to do in the pull 
 
 ## Review the Commission
 
-As you know your project better, technical writers will turn to your expertise through the whole process. Once they are done, however, you are the final judge of the work. Read it carefully, make sure that it provides all necessary information, provides only true information, has no ambiguous meanings, and does not misrepresent your work in any other way.
+Technical writers will turn to your expertise through the whole process. Even more, you are the final judge of their work. Read it carefully, make sure that it provides all necessary information, provides only true information, has no ambiguous meanings, and presents your project in its spirit.
 
 Technical writers will notify you when their commission is ready for a review.
 
