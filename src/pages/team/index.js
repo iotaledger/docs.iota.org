@@ -15,7 +15,7 @@ export default function Team() {
         <section className={styles.section}>
           <div className="container">
             <h1 className="hero__title">IOTA Ecosystem Team</h1>
-            <p className="hero__subtitle">List of IOTA Foundation employees in the Ecosystem department.</p>
+            <p className="hero__subtitle">List of IOTA Foundation employees in the Ecosystem department. Feel free to contact us!</p>
             <div className="row">
               {TEAM.map((item, index) => (
                 <TeamMember key={index} {...item} />

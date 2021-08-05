@@ -22,6 +22,10 @@
     letter-spacing: 0.02em;
     font-family: 'Metropolis Semi Bold';
   }
+
+  :global(.action-wrapper) {
+    justify-content: center !important;
+  }
   
   .button {
     width: 2.5rem;
