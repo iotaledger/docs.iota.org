@@ -1,8 +1,8 @@
 # Developer's Guide
 
-Documentation rarely attracts developers to read it, let alone write it. Writing documentation is hard, and it is even harder to write captivating one. Luckily, IOTA has a team of dedicated technical writers. We can help you, and you can help us. This document explains how.
+Developers rarely adore reading documentation, let alone writing it. Writing documentation is hard, and it is even harder to write captivating one. Luckily, IOTA has a team of dedicated technical writers. We can help you, and you can help us. This document explains how.
 
-You are the author of your code. It makes you the original source of knowledge, the most reliable and often the only one. Technical writers cannot replace you or let you forget about the documentation boogieman. Quite the opposite, we want you to always keep documentation in mind so we could support you and make sure that users and other developers enjoy learning about your work.
+You are the author of your code. It makes you the original source of knowledge, the most reliable and often the only one. Technical writers cannot replace you or let you forget about the documentation. Quite the opposite, we want you to always keep it in mind so we could support you and make sure that users and other developers enjoy learning about your work.
 
 This document will evolve as we invent more ways to help each other. Check for updates once in a while.
 
@@ -23,15 +23,15 @@ IOTA employs dozens of software engineer who work across a dozen and a half of p
 
 The most consuming part of writing is not writing itself but the research of the subject. You have to gather bits of knowledge, structure it, decide what is worth mentioning and what not. Then you put it into words, draft up an article, rewrite it clean, let others review it and publish your work. The more you can do by yourself, the faster your project will get documented.
 
-Some tasks you can manage on your own. For some you would need advice. Some tasks are better left to a technical writer. Contact the writers' team and distribute the effort early.
+Some tasks you can manage on your own. For some you would need advice. Some tasks are better left to technical writers. Contact the writers' team and distribute the effort early.
 
-To help you help us, we have prepared a [bag of tricks](./bag_of_tricks/bag_of_tricks.md), a collection of tools and tricks for developers who write documentation.
+To help you help us, we have prepared a [bag of tricks](./bag_of_tricks/bag_of_tricks.md), a collection of tools and tips for developers who write documentation.
 
 ## Do Your Work
 
 An API reference already has a structure. Each function gets its own entry. Every entry has a few fields. Every field needs only a sentence or two. Yet you need to understand the code in depth: programmers write better API references than technical writers do.
 
-Feel free to ask technical writers for an advice or a review. 
+Feel free to ask a technical writer for an advice or a review. 
 
 ## Make It Official
 

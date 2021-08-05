@@ -21,7 +21,7 @@ Tag the `@iotaledger/tech-writers` team in your PR. Tell what to do in the pull 
 
 ## Review the Commission
 
-Technical writers will turn to your expertise through the whole process. Even more, you are the final judge of their work. Read it carefully, make sure that it provides all necessary information, provides only true information, has no ambiguous meanings, and presents your project in its spirit.
+Technical writers will turn to your expertise through the whole process. Even more, you are the final judge of their work. Read it carefully, make sure that it provides all necessary information, provides only true information, has no ambiguous meanings, and presents your project in its true spirit.
 
 Technical writers will notify you when their commission is ready for a review.
 
