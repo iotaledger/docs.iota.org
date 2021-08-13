@@ -8,24 +8,24 @@ This document will evolve as we invent more ways to help each other. Check for u
 
 ## Make a Friend
 
-If you have not got in contact with a technical writer yet, do it! We can advise you, ask the right questions and plan together. Reach out to us through Slack DMs, `#dev-documentation` Slack channel, or via e-mail. If you come from outside IOTA, check the [Team](https://docs.iota.org/team) page for the external contacts.
+If you have not gotten in a contact with a technical writer yet, do it! We can advise you, ask the right questions, and plan together. Reach out to us through Slack DMs, `#dev-documentation` Slack channel, or via e-mail. If you come from outside IOTA, check the [Team](https://docs.iota.org/team) page for the external contacts.
 
 Active technical writers:
 
 - Aleksei Korolev
 - Charles Thompson
-- Lukas Tortora
+- Lucas Tortora
 - Sebastian Heusser
 
 ## Do Your Homework
 
 IOTA employs dozens of software engineer who work across a dozen and a half of products and research projects. And there are four technical writers. On an average week, only one could attend to your project, and only for a day or two. The major bulk of the work is on your shoulders.
 
-The most consuming part of writing is not writing itself but the research of the subject. You have to gather bits of knowledge, structure it, decide what is worth mentioning and what not. Then you put it into words, draft up an article, rewrite it clean, let others review it and publish your work. The more you can do by yourself, the faster your project will get documented.
+The most consuming part of writing is not writing itself but the research of the subject. You have to gather bits of knowledge, structure it, and decide what is worth mentioning and what not. Then you put it into words, draft up an article, rewrite it clean, let others review it, and publish your work. The more you can do by yourself, the faster your project will get documented.
 
-Some tasks you can manage on your own. For some you would need advice. Some tasks are better left to technical writers. Contact the writers' team and distribute the effort early.
+Some tasks you can manage on your own. For some you could need advice. Some tasks are better left to technical writers. Contact the writers' team and distribute the effort early.
 
-To help you help us, we have prepared a [bag of tricks](./bag_of_tricks/bag_of_tricks.md), a collection of tools and tips for developers who write documentation.
+To help you help us, we have prepared a [toolbox](./toolbox/toolbox.md), a collection of tools and tips for developers who write documentation.
 
 ## Do Your Work
 

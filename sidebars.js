@@ -28,23 +28,23 @@ module.exports = {
         },
         {
           type: 'category',
-          label: 'Bag of Tricks',
+          label: 'Toolbox',
           items:
           [
             {
               type: 'doc',
               label: 'Introduction',
-              id: 'for_devs/bag_of_tricks/bag_of_tricks'
+              id: 'for_devs/toolbox/toolbox'
             },
             {
               type: 'doc',
               label: 'The Right Questions',
-              id: 'for_devs/bag_of_tricks/questions'
+              id: 'for_devs/toolbox/questions'
             },
             {
               type: 'doc',
               label: 'Mind Map',
-              id: 'for_devs/bag_of_tricks/mind_map'
+              id: 'for_devs/toolbox/mind_map'
             },
           ]
         },

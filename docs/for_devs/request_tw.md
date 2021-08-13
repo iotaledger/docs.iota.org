@@ -4,7 +4,7 @@ While technical writers are always up for a quick chat, they need to plan ahead 
 
 ## Plan Ahead
 
-The technical writing team takes up to two weeks to produce the requested text. In that time, writers research the topic, rework your draft or write an article from scratch, review and edit their commission, all while processing multiple other requests. In exceptional circumstances technical writers could work against a twenty-four hours deadline, but keep in mind that this would put all other requests on hold and strain technical writers. Plan ahead, contact writers early, and respond swiftly. This is the smoothest way to get your project well documented.
+The technical writing team takes up to two weeks to produce a text. In that time, writers research the topic, rework your draft or write an article from scratch, review and edit their commission, all while processing multiple other requests. In exceptional circumstances technical writers could work against a twenty-four-hour deadline, but keep in mind that this would put all other requests on hold and strain technical writers. Plan ahead, contact writers early, and respond swiftly. This is the smoothest way to get your project well documented.
 
 ## Do Your Homework
 
@@ -17,7 +17,7 @@ Either use your feature branch or create a new branch with the `docs/` prefix. C
 
 ## Contact Writers
 
-Tag the `@iotaledger/tech-writers` team in your PR. Tell what to do in the pull request description or in the comments.
+Tag the `@iotaledger/tech-writers` team in your PR. Tell what writers have to do in the pull request description or in the comments.
 
 ## Review the Commission
 
