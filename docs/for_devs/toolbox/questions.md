@@ -31,14 +31,14 @@ Journalists use the "Five Ws and One H": who, what, where, when, why, how. This 
 
 I have written down answers for this page before I started working on it. I have not edited it afterwards:
 
-| Question | Answers        |
-| ---      | ---            |
-| Who?     | A developer from IOTA or IOTA's X-Team who has to document his work but does not know how. |
-| What?    | A set of questions. After you answer them, you get a solid general idea about a single topic. |
-| Where?   | An overview of a product or of a set of features, an article on a simple feature, an API description of a method. As it gives you only a broad view on a single topic, you would need a more powerful tool to plan a complex documentation structure. |
-| When?    | Best answered before you write, so you would have something to start with. These questions and answers make a good reference as you write or when you review your writing. |
-| Why?     | This is a simple tool. You sit down and answer questions. No meetings, no planning, fast to get the results. |
-| How?     | Sit down. Answer questions. It works because you answer the same questions that your reader would ask. It will go wrong if you give trivial answers: "Why users use this? Because it is useful!" <br /> You could then convert this questionnaire into an article. You would have to consider the structure, the order, and the way you raise these questions and present the answers. Otherwise, your reader might get confused. |
+| Questions | Answers        |
+| ---       | ---            |
+| Who?      | A developer from IOTA or IOTA's X-Team who has to document his work but does not know how. |
+| What?     | A set of questions. After you answer them, you get a solid general idea about a single topic. |
+| Where?    | An overview of a product or of a set of features, an article on a simple feature, an API description of a method. As it gives you only a broad view on a single topic, you would need a more powerful tool to plan a complex documentation structure. |
+| When?     | Best answered before you write, so you would have something to start with. These questions and answers make a good reference as you write or when you review your writing. |
+| Why?      | This is a simple tool. You sit down and answer questions. No meetings, no planning, fast to get the results. |
+| How?      | Sit down. Answer questions. It works because you answer the same questions that your reader would ask. It will go wrong if you give trivial answers: "Why users use this? Because it is useful!" <br /> You could then convert this questionnaire into an article. You would have to consider the structure, the order, and the way you raise these questions and present the answers. Otherwise, your reader might get confused. |
 
 I have answered some questions in the very first section. I used other sections of this document to answer more. This example itself is the way I gave you some of the answers. The rest of the questions I have left out, but kept them in mind. As I was writing this article, more questions arose.
 

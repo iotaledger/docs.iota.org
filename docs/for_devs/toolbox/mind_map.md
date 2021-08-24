@@ -17,6 +17,6 @@ Any time you switch your focus, you can take a look at your mind map and see the
 
 No two minds think alike, and it is up to you to decide how do you use this tool. You could make a single giant map or have several mind maps of separate topics. You could stick to a bigger picture or write down every minute detail. There are different perspectives, too. Do you describe your project's architecture, or the ways the users interact with it?
 
-Do not bother thinking whenever you do it right or wrong or if you list wrong topics. Whatever keeps you throwing topics on the board is right. Whatever slows you down is wrong. You can refine your mind map later, when there is nothing left to add.
+Do not bother thinking whichever you do it right or wrong or if you list wrong topics. Whatever keeps you throwing topics on the board is right. Whatever slows you down is wrong. You can refine your mind map later, when there is nothing left to add.
 
 You can scribble a quick mind map on a sheet of paper, but that would be awkward to edit, it could grow too large, and you would have trouble discussing it in a call. You have no such problems with [Miro](https://miro.com), which has a built-in template for mind maps.
