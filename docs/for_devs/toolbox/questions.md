@@ -13,7 +13,7 @@ We will then ask the same, but with negations:
 2. How to misuse it?
 3. If something goes wrong, how will they know? How do they cope with that?
 
-These are useful questions. Technical writers, readers, your team ask them. You ask them. So arm yourself with answers. Write them down, rearrange it in the order in which you would ask the questions yourself, plant them into your article, and expand on them as necessary. Cut the questions and answers that do not fit well, but keep them in mind. What is left is a draft full of content.
+These are useful questions. Technical writers, readers, and your team ask them. You ask them. So arm yourself with answers. Write them down, rearrange it in the order in which you would ask the questions yourself, plant them into your article, and expand on them as necessary. Cut the questions and answers that do not fit well, but keep them in mind. What is left is a draft full of content.
 
 ## Five Ws and One H
 

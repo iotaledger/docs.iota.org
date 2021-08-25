@@ -19,9 +19,9 @@ Active technical writers:
 
 ## Do Your Homework
 
-IOTA employs dozens of software engineer who work across a dozen and a half of products and research projects. And there are four technical writers. On an average week, only one could attend to your project, and only for a day or two. The major bulk of the work is on your shoulders.
+IOTA employs dozens of software engineers who work across a dozen and a half of products and research projects. And there are four technical writers. On an average week, only one could attend to your project, and only for a day or two. The major bulk of the work is on your shoulders.
 
-The most consuming part of writing is not writing itself but the research of the subject. You have to gather bits of knowledge, structure it, and decide what is worth mentioning and what not. Then you put it into words, draft up an article, rewrite it clean, let others review it, and publish your work. The more you can do by yourself, the faster your project will get documented.
+The most consuming part of writing is not the writing itself but the research of the subject. You have to gather bits of knowledge, structure it, and decide what is worth mentioning and what not. Then you put it into words, draft up an article, rewrite it clean, let others review it, and publish your work. The more you can do by yourself, the faster your project will get documented.
 
 Some tasks you can manage on your own. For some you would need advice. Some tasks are better left to technical writers. Contact the writers' team and distribute the effort early.
 
